@@ -1,2 +1,1 @@
-# hexlet-basics
-another repo for Hexlet trainings
+training addition in readme
